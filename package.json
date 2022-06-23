@@ -15,7 +15,7 @@
     "core-js": "^2.5.6",
     "del": "^3.0.0",
     "html-minifier": "^3.5.21",
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "less": "^3.9.0",
     "less-plugin-autoprefix": "^2.0.0",
     "mkdirp": "^0.5.1",
