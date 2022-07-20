@@ -25,7 +25,7 @@
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-terser": "^4.0.3",
     "run-sequence": "^2.2.1",
-    "terser": "^3.11.0",
+    "terser": "^4.8.1",
     "uglify-es": "3.3.9",
     "workbox-build": "^3.6.3"
   }
